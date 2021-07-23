@@ -1,0 +1,10 @@
+body{
+    background-size: cover;
+}
+.head{
+    width: 100%;
+    background-color: rgb(73, 106, 255);
+}
+#toFind{
+    width: 300px;
+}
